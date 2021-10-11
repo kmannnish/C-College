@@ -1,5 +1,27 @@
 #include<stdio.h>
 
+
+void question1 (int a)
+{
+    printf("Question 1");
+}
+
+void question2 (int a)
+{
+    printf("Question 2");
+}
+
+void question3 (int a)
+{
+    printf("Question 3");
+}
+
+void question4 (int a)
+{
+    printf("Question 4");
+}
+
+
 struct student
 {
     char name[25];
@@ -45,22 +67,3 @@ int main()
     return 0;
 }
 
-void question1 (int a)
-{
-    printf("Question 1");
-}
-
-void question2 (int a)
-{
-    printf("Question 2");
-}
-
-void question3 (int a)
-{
-    printf("Question 3");
-}
-
-void question4 (int a)
-{
-    printf("Question 4");
-}
