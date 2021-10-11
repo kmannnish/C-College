@@ -45,22 +45,22 @@ int main()
     return 0;
 }
 
-void question (int a)
+void question1 (int a)
 {
     printf("Question 1");
 }
 
-void question (int a)
+void question2 (int a)
 {
     printf("Question 2");
 }
 
-void question (int a)
+void question3 (int a)
 {
     printf("Question 3");
 }
 
-void question (int a)
+void question4 (int a)
 {
     printf("Question 4");
 }

@@ -9,6 +9,7 @@ int main()
 	printf("%d %d %d", ++a, a , a++);
 	return 0;
 }
+
 // Execution Starts from Right to Left <
 // Printing Starts from Left to Right  >
 
