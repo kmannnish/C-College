@@ -19,7 +19,7 @@ int main()
                 c++;
                 break;
             }
-        printf("Total Times %d\n", c);
+        printf("Total Times is= %d\n", c);
         }
         printf("\nIndex %d Value %d : ", i+1, arr[i]);
     }
