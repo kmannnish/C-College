@@ -3,7 +3,7 @@
 
 void question1 (int a)
 {
-    printf("Question 1");
+    printf("Question 01");
 }
 
 void question2 (int a)
