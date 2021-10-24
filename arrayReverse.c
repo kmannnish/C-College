@@ -35,8 +35,6 @@ int main()
     arrayPrint(arr);
     arrayRev(arr);
     printf("\nAfter reversing the array\n");
-    arrayPrint(arr);
-    
-    
+    arrayPrint(arr);    
     return 0;
 }
